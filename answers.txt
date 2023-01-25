@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
-==================================================
+====MUSTAFA
+1. Linus Torvalds
+2. Linux kernel
+3. 2005
+4. git init
+5.It is uploading from local repository content to a remote repository.
+6.The purpose of git ignore files is to making sure that certain files not tracked by Git remain untracked.
+7 a  fork is a copy of a repository and it is make  a changes to a project without affecting the original repository.
+8.The git clone command is used to create a copy of a specific repository or branch within a repository.
+9.This is allows to the clone another repository into the  project and keep the commits separate.
+10.True
